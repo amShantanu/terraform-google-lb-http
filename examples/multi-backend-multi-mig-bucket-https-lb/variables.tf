@@ -15,7 +15,7 @@
  */
 
 variable "group1_region" {
-  default = "us-west1"
+  default = "us-east1"
 }
 
 variable "group2_region" {
@@ -23,7 +23,7 @@ variable "group2_region" {
 }
 
 variable "group3_region" {
-  default = "us-east1"
+  default = "us-west1"
 }
 
 variable "network_name" {
